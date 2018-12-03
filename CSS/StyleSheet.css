@@ -1,3 +1,100 @@
+.jumbotron {
+  padding-top: 90px;
+  height: 900px;
+  /* test  */
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle;
+  border: 0;
+  /* end of test */
+  margin-bottom: 0;
+  background-image: url('../Images/coffee2.png');
+  background-size: cover;
+
+/*  this is what makes the image parallax */
+  /* background-attachment: fixed; */
+
+}
+
+.jumbotron h1 {
+  font-family: 'Sedgwick Ave', cursive;
+  color: white;
+  /* margin-bottom: 1em; */
+  margin-right: 100px;
+  font-size: 70px;
+  line-height: 100px;
+
+}
+.btn {
+  background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 90px 0px 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    font-family: 'Sedgwick Ave', cursive;
+}
+
+blockquote {
+  border-left: 0;
+}
+
+#mission {
+  background-color: rgba(32, 35, 41, 0.9);
+  color: #ddd;
+  padding-bottom: 40px;
+}
+.jumbotron .form-group {
+  line-height: 1em;
+}
+
+.jumbotron label {
+  color: white;
+}
+.jumbotron img {
+  margin-top: 50px;
+}
+h2 {
+  margin-bottom: 1.5em;
+}
+
+.navbar-inverse {
+  background-color: rgba(32, 35, 41,0.8);
+}
+
+.form-inline input[name='email'] {
+  width: 80%;
+}
+
+
+#social-buttons {
+  margin-top: 50px;
+}
+
+.btn-twitter {
+  background-color: #00acee;
+  border-color: #009ad5;
+  color: white;
+}
+
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776;
+  color: white;
+}
+
+.btn-pinterest {
+  background-color: #b62f26;
+  border-color: #b62f26;
+  color: white;
+}
+
+
 h1 {
   color: red;
 }
