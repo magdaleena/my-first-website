@@ -1,8 +1,10 @@
 h1 {
-  color: #blue;
+  color: red;
 }
 
-
+h2 {
+  color: yellow;
+}
 
 body {
      background: url("file:///Users/magdalenaw/Desktop/CfgCourse2018/Coffee_Website/Images/coffeeHeart2.png");
