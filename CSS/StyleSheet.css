@@ -1,14 +1,6 @@
 .jumbotron {
   padding-top: 90px;
   height: 900px;
-  /* test  */
-  width: 100%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  vertical-align: middle;
-  border: 0;
-  /* end of test */
   margin-bottom: 0;
   background-image: url('../Images/coffee2.png');
   background-size: cover;
@@ -107,4 +99,9 @@ body {
      background: url("file:///Users/magdalenaw/Desktop/CfgCourse2018/Coffee_Website/Images/coffeeHeart2.png");
      background-size: cove;
      background-position: center;
+   }
+
+   .row {
+     padding-bottom: 65px;
+     padding-top: 65px;
    }
