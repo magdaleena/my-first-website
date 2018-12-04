@@ -17,6 +17,7 @@
   margin-right: 100px;
   font-size: 70px;
   line-height: 100px;
+  margin-bottom: 1.5em;
 
 }
 .btn {
@@ -24,12 +25,11 @@
     border: none;
     color: white;
     padding: 15px 32px;
-    margin: 90px 0px 0px 0px;
+    margin: 10px 10px 0px 0px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 26px;
-    font-family: 'Sedgwick Ave', cursive;
+    font-size: 16px;
 }
 
 blockquote {
@@ -53,6 +53,13 @@ blockquote {
 }
 h2 {
   margin-bottom: 1.5em;
+  color: #382a24;
+  font-family: 'Sedgwick Ave', cursive;
+  font-size: 36px;
+}
+
+h1 {
+  font-family: 'Sedgwick Ave', cursive;
 }
 
 .navbar-inverse {
@@ -87,14 +94,6 @@ h2 {
 }
 
 
-h1 {
-  color: red;
-}
-
-h2 {
-  color: yellow;
-}
-
 body {
      background: url("file:///Users/magdalenaw/Desktop/CfgCourse2018/Coffee_Website/Images/coffeeHeart2.png");
      background-size: cove;
@@ -104,4 +103,25 @@ body {
    .row {
      padding-bottom: 65px;
      padding-top: 65px;
+
    }
+
+   .lower-text {
+
+
+   }
+.more-space {
+  padding-top: 15px;
+}
+
+.footer {
+  font-size: 17px;
+}
+.white {
+  color: white;
+}
+.intro {
+  padding-left: 100px;
+  padding-right: 100px;
+  font-size: 17px;
+}
