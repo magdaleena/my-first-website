@@ -145,3 +145,13 @@ body {
 .map {
   margin-bottom: 80px;
 }
+
+.button2 {
+  color: white;
+padding: 1em;
+background: green;
+text-decoration: none;
+border: none;
+border-radius: 10px;
+font-size: 18px;
+}
